@@ -15,4 +15,4 @@ export const searchReviews = async (query, page = 0, simulateNew = false) => {
         results.unshift({ publication_date: '2099-01-01'});
 
     return results;
-}
+};

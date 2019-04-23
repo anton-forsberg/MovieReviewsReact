@@ -48,7 +48,7 @@ class Reviews extends Component {
                 </header>
                 {
                     reviews.length === 0 &&
-                    <p>No reviews found</p>
+                    <h1>No reviews found</h1>
                 }
                 {
                     reviews.length > 0 &&

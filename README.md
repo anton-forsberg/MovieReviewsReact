@@ -1,3 +1,16 @@
+
+Improvements:
+
+* IE Compatability
+* Look for newly posted reviews (poll with setInterval)
+* Display loader when loading data to prevent multiple requests
+* Make it prettier
+    * Highlight searched text
+    * Indicate critics choice
+    * Animations on load
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
