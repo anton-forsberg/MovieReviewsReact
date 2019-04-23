@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MovieReviewsReact/static/css/main.82d176dc.chunk.css",
+    "main.js": "/MovieReviewsReact/static/js/main.41a51b60.chunk.js",
+    "main.js.map": "/MovieReviewsReact/static/js/main.41a51b60.chunk.js.map",
+    "runtime~main.js": "/MovieReviewsReact/static/js/runtime~main.390bd4b1.js",
+    "runtime~main.js.map": "/MovieReviewsReact/static/js/runtime~main.390bd4b1.js.map",
+    "static/js/2.65b9c135.chunk.js": "/MovieReviewsReact/static/js/2.65b9c135.chunk.js",
+    "static/js/2.65b9c135.chunk.js.map": "/MovieReviewsReact/static/js/2.65b9c135.chunk.js.map",
+    "index.html": "/MovieReviewsReact/index.html",
+    "precache-manifest.ede622f7f465aec0ff68dfa8427903c1.js": "/MovieReviewsReact/precache-manifest.ede622f7f465aec0ff68dfa8427903c1.js",
+    "service-worker.js": "/MovieReviewsReact/service-worker.js",
+    "static/css/main.82d176dc.chunk.css.map": "/MovieReviewsReact/static/css/main.82d176dc.chunk.css.map"
+  }
+}
