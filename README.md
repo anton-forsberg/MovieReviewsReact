@@ -1,5 +1,5 @@
 
-Improvements:
+Potential improvements:
 
 * IE Compatability
 * Look for newly posted reviews (poll with setInterval)
